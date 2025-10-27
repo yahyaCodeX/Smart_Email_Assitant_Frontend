@@ -1,4 +1,28 @@
 # React + Vite
+# 💌 AI Email Assistant – Frontend
+
+Modern **React + Tailwind CSS** frontend for the AI Email Replier project.  
+Allows users to input email content, select tone, and generate intelligent replies instantly.
+
+---
+
+## 🎨 Features
+- Clean and animated UI with Tailwind CSS  
+- Multiple tone options (professional, friendly, casual, etc.)  
+- Real-time response from backend  
+- Copy-to-clipboard and live status alerts  
+
+---
+
+## 🧰 Tech Stack
+React • Vite • Tailwind CSS • Fetch API
+
+---
+
+## 🔗 Related Projects
+- ⚙️ [Backend (Spring Boot)](https://github.com/yahyaCodeX/Smart_Email_Assitant)
+- 🧩 [Chrome Extension (Gmail Integration)](https://github.com/yahyaCodeX/Smart_Email_Assistant_Extension)
+
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
